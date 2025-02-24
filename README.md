@@ -65,6 +65,7 @@ Hello! I'm a passionate **[your profession, e.g., Full-Stack Developer]** with a
 🎵 **Now Listening To:**  
 
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31yae2fzox26fjwi6vmt733gjtu4&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/track/7ywfK8jkWSLrFFtPo1VwoF?si=25ced301427f4ff3)  
+<img src="Images/Fairuz.jpg" alt="Fairuz" style="width: 10%;">
 
  
 
