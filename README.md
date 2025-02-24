@@ -25,14 +25,14 @@ Hello! I'm a passionate **[your profession, e.g., Full-Stack Developer]** with a
   [!["My Blog"](https://img.shields.io/badge/Blog-blog.tarekalabd.net-orange)](https://blog.tarekalabd.net)
 -->
 ---
-<!--
 
 ## 🛠️ Tech Stack  
 
-![Your Tech Stack Badges](https://skillicons.dev/icons?i=html,css,js,react,vue,nodejs,python,cpp,mysql,mongodb,git,github)  
+![Your Tech Stack Badges](https://skillicons.dev/icons?i=.NET,C#,SQLServer,html,css,js,git,github)
 
 ---
 
+<!--
 ## 📈 GitHub Stats  
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=true)  
