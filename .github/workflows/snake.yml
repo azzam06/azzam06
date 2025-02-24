@@ -1,4 +1,4 @@
-name: Generate_Contribution_Snake
+name: Generate Contribution Snake
 
 on:
   schedule:
