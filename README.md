@@ -10,7 +10,8 @@ Hello! I'm a passionate **[your profession, e.g., Full-Stack Developer]** with a
 
 - 🔭 Currently working on **[Your Current Project]**  
 - 🌱 Learning **[FullStack development]**  
-- 💬 Ask me about **Desktop_Applications(.NET,C#)&Web_Development(HTML,CSS,JavaScript)**
+- 💬 Ask me about **Desktop_Applications(.NET,C#)**
+                  **Web_Development(HTML,CSS,JavaScript)**
 - 📫 Reach me at **[zoma21466@gmail.com]**  
 - 🎯 Fun Fact: **[(طير شلوى)Our aspirations extend far beyond conventional limitations, with a vision that transcends even the achievement of lunar exploration.]**
 
