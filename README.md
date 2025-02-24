@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Ahmed Azzam
 
 **🚀 Developer | 💡 Innovator | 🎯 Problem Solver**  
-<!--
+
 ![Your Banner Image](Images/owl.jpeg) 
--->
+
 ## 📌 About Me
 
 Hello! I'm a passionate **[your profession, e.g., Full-Stack Developer]** with a love for **[your expertise, e.g., web development, AI, open-source]**. I enjoy building **scalable, efficient, and user-friendly applications** that make an impact.  
