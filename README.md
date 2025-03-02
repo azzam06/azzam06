@@ -52,20 +52,23 @@ Hello! I'm a passionate **[your profession, e.g., Full-Stack Developer]** with a
 ---
 
 ## ⭐ Featured Projects  
+  **🌍 Some Web Projects**
+- **Leon_Template** *[https://github.com/yourusername/project1](https://azzam06.github.io/Temp1_Leon/)* <br> - Leon Template. <br> -Language: Html | Css
+<!-- - **[Project 3 Name](https://github.com/yourusername/project3)** - Short description  -->
 
-- **Leon_Template** *[https://github.com/yourusername/project1](https://azzam06.github.io/Temp1_Leon/)* - The First Page for me.
-<!-- 
-- **[Project 2 Name](https://github.com/yourusername/project2)** - Short description  
-- **[Project 3 Name](https://github.com/yourusername/project3)** - Short description  
--->
+  **🖥️ Some Desktop Applications Projects**
+- **Lawyer Assistant** *https://youtu.be/_dnr4B2zDUw?si=ecKEX8VkFNnD_zne* - <q>Lawyer Assistant - Streamlining Legal Case Management</q>.<br> -Language: C# | SQLServer
+- **Telesales** *https://youtu.be/FqYBjz85dxc?si=9XwYdn2CFMCU_zeU* <br> - <q>The Telesales system - streamline customer management and enhance sales processes.</q> <br> - Language: VisualBasic.NET | SQLServer
+- **Library system** *https://youtu.be/6JsH4Q21tGE?si=GXb26IW8tEjKjc0p* <br> - <q>This software helps manage libraries. It helps organize large libraries and makes sure they run smoothly.<q> <br> - Language: C# | SQLServer
+<!-- - **[Project Name](https://github.com/yourusername/project2)** - Short description  -->
 ---
-
 ## 🎨 Fun Widgets  
 
 🎵 **Now Listening To:**  
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31yae2fzox26fjwi6vmt733gjtu4&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/track/7ywfK8jkWSLrFFtPo1VwoF?si=25ced301427f4ff3)  
 <img src="Images/Fairuz.jpg" alt="Fairuz" style="width: 10%;">
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31yae2fzox26fjwi6vmt733gjtu4&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/track/7ywfK8jkWSLrFFtPo1VwoF?si=25ced301427f4ff3)  
 
  
 
