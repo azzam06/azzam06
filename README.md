@@ -53,13 +53,21 @@ Hello! I'm a passionate **[your profession, e.g., Full-Stack Developer]** with a
 
 ## ⭐ Featured Projects  
   **🌍 Some Web Projects**
-- **Leon_Template** *[https://github.com/yourusername/project1](https://azzam06.github.io/Temp1_Leon/)* <br> - Leon Template. <br> -Language: Html | Css
+- **Leon_Template** *[https://github.com/yourusername/project1](https://azzam06.github.io/Temp1_Leon/)* <br>
+<q>Leon Template.</q> <br> 
+Language: Html | Css
 <!-- - **[Project 3 Name](https://github.com/yourusername/project3)** - Short description  -->
 
   **🖥️ Some Desktop Applications Projects**
-- **Lawyer Assistant** *https://youtu.be/_dnr4B2zDUw?si=ecKEX8VkFNnD_zne* - <q>Lawyer Assistant - Streamlining Legal Case Management</q>.<br> -Language: C# | SQLServer
-- **Telesales** *https://youtu.be/FqYBjz85dxc?si=9XwYdn2CFMCU_zeU* <br> - <q>The Telesales system - streamline customer management and enhance sales processes.</q> <br> - Language: VisualBasic.NET | SQLServer
-- **Library system** *https://youtu.be/6JsH4Q21tGE?si=GXb26IW8tEjKjc0p* <br> - <q>This software helps manage libraries. It helps organize large libraries and makes sure they run smoothly.<q> <br> - Language: C# | SQLServer
+- **Lawyer Assistant** *https://youtu.be/_dnr4B2zDUw?si=ecKEX8VkFNnD_zne* <br>
+<q>Lawyer Assistant - Streamlining Legal Case Management.</q> <br>
+Language: C# | SQLServer
+- **Telesales** *https://youtu.be/FqYBjz85dxc?si=9XwYdn2CFMCU_zeU* <br>
+<q>The Telesales system - streamline customer management and enhance sales processes.</q> <br>
+Language: VisualBasic.NET | SQLServer
+- **Library system** *https://youtu.be/6JsH4Q21tGE?si=GXb26IW8tEjKjc0p* <br>
+<q>This software helps manage libraries. It helps organize large libraries and makes sure they run smoothly.</q> <br>
+Language: C# | SQLServer
 <!-- - **[Project Name](https://github.com/yourusername/project2)** - Short description  -->
 ---
 ## 🎨 Fun Widgets  
