@@ -53,8 +53,11 @@ Hello! I'm a passionate **[your profession, e.g., Full-Stack Developer]** with a
 
 ## ⭐ Featured Projects  
   **🌍 Some Web Projects**
-- **Leon_Template** *[https://github.com/yourusername/project1](https://azzam06.github.io/Temp1_Leon/)* <br>
+- **Leon_Template** *https://azzam06.github.io/Leon_Template/* <br>
 <q>Leon Template.</q> <br> 
+Language: Html | Css
+- **Kasper Template** *https://azzam06.github.io/Kasper_Template/* <br>
+<q>Kasper Template</q> <br> 
 Language: Html | Css
 <!-- - **[Project 3 Name](https://github.com/yourusername/project3)** - Short description  -->
 
