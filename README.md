@@ -35,8 +35,6 @@ Hello! I'm a passionate **[your profession, e.g., Full-Stack Developer]** with a
 ---
 ## 📈 GitHub Stats  
 
-
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azzam06&layout=compact&theme=graywhite&hide_border=true)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=azzam06&show_icons=true&theme=vue&hide_border=true)  
 
@@ -53,10 +51,10 @@ Hello! I'm a passionate **[your profession, e.g., Full-Stack Developer]** with a
 
 ## ⭐ Featured Projects  
   **🌍 Some Web Projects**
-- **Leon_Template** *https://azzam06.github.io/Leon_Template/* <br>
+- **Leon_Template** <a href="https://azzam06.github.io/Leon_Template/" style="color:#fd7d0a">More</a> <br>
 <q>Leon Template.</q> <br> 
 Language: Html | Css
-- **Kasper Template** *https://azzam06.github.io/Kasper_Template/* <br>
+- **Kasper Template** <a href="https://azzam06.github.io/Kasper_Template/" style="color:#fd7d0a">More</a><br>
 <q>Kasper Template</q> <br> 
 Language: Html | Css
 <!-- - **[Project 3 Name](https://github.com/yourusername/project3)** - Short description  -->
