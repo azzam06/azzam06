@@ -6,12 +6,12 @@
 
 ## 📌 About Me
 
-Hello! I'm a passionate **[your profession, e.g., Full-Stack Developer]** with a love for **[your expertise, e.g., web development, AI, open-source]**. I enjoy building **scalable, efficient, and user-friendly applications** that make an impact.  
+Hello! I'm a passionate **[Full-Stack Developer]** with a love for **[Desktop Developemnt, Web Development, Full-Stack Development]**. I enjoy building **scalable, efficient, and user-friendly applications** that make an impact.  
 
 - 🌱 Learning **FullStack Development**  
 - 💬 Ask me about **Desktop_Applications(.NET,C#)** **Web_Development(HTML,CSS,JavaScript)**
-- 📫 Reach me at **zoma21466@gmail.com**  <a href="zoma21466@gmail.com" style="color:red;">zoma21466@gmail.com</a>
-- 🎯 Fun Fact: **Our aspirations extend far beyond conventional limitations, with a vision that transcends even the achievement of lunar exploration(طير شلوى).**
+- 📫 Reach me at <a href="zoma21466@gmail.com" style="color:red;">zoma21466@gmail.com</a>
+- 🎯 Fun Fact: **Our aspirations extend far beyond conventional limitations, with a vision that transcends even the achievement of lunar exploration.**
 
 ---
 <!--
@@ -54,19 +54,19 @@ Hello! I'm a passionate **[your profession, e.g., Full-Stack Developer]** with a
 - **Leon_Template** <a href="https://azzam06.github.io/Leon_Template/" style="color:#fd7d0a">More</a> <br>
 <q>Leon Template.</q> <br> 
 Language: Html | Css
-- **Kasper Template** <a href="https://azzam06.github.io/Kasper_Template/" style="color:#fd7d0a">More</a><br>
+- **Kasper Template** <a href="https://azzam06.github.io/Kasper_Template/" style="color:#fd7d0a;">More</a><br>
 <q>Kasper Template</q> <br> 
 Language: Html | Css
 <!-- - **[Project 3 Name](https://github.com/yourusername/project3)** - Short description  -->
 
   **🖥️ Some Desktop Applications Projects**
-- **Lawyer Assistant** <a href="https://youtu.be/_dnr4B2zDUw?si=ecKEX8VkFNnD_zne">Lawyer Assistant</a> <br>
+- **Lawyer Assistant** <a href="https://youtu.be/_dnr4B2zDUw?si=ecKEX8VkFNnD_zne">More</a> <br>
 <q>Lawyer Assistant - Streamlining Legal Case Management.</q> <br>
 Language: C# | SQLServer
-- **Telesales** *https://youtu.be/FqYBjz85dxc?si=9XwYdn2CFMCU_zeU* <br>
+- **Telesales** <a href="https://youtu.be/FqYBjz85dxc?si=9XwYdn2CFMCU_zeU" style="color:#fd7d0a;">More</a><br>
 <q>The Telesales system - streamline customer management and enhance sales processes.</q> <br>
 Language: VisualBasic.NET | SQLServer
-- **Library system** *https://youtu.be/6JsH4Q21tGE?si=GXb26IW8tEjKjc0p* <br>
+- **Library system** <a href="https://youtu.be/6JsH4Q21tGE?si=GXb26IW8tEjKjc0p" style="color:#fd7d0a;">More</a><br>
 <q>This software helps manage libraries. It helps organize large libraries and makes sure they run smoothly.</q> <br>
 Language: C# | SQLServer
 <!-- - **[Project Name](https://github.com/yourusername/project2)** - Short description  -->
