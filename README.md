@@ -62,7 +62,7 @@ Language: Html | Css
 <!-- - **[Project 3 Name](https://github.com/yourusername/project3)** - Short description  -->
 
   **🖥️ Some Desktop Applications Projects**
-- **Lawyer Assistant** *https://youtu.be/_dnr4B2zDUw?si=ecKEX8VkFNnD_zne* <br>
+- **Lawyer Assistant** <a href="https://youtu.be/_dnr4B2zDUw?si=ecKEX8VkFNnD_zne">Lawyer Assistant</a> <br>
 <q>Lawyer Assistant - Streamlining Legal Case Management.</q> <br>
 Language: C# | SQLServer
 - **Telesales** *https://youtu.be/FqYBjz85dxc?si=9XwYdn2CFMCU_zeU* <br>
@@ -91,10 +91,4 @@ Language: C# | SQLServer
 
 ## 📜 License  
 
-This repository is open-source and available under the **MIT License**.  
-
-<!--
----
-> *"Code is like humor. When you have to explain it, it’s bad."* – Cory House  
-
-
+This repository is open-source and available under the **MIT License**.
