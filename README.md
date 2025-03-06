@@ -10,7 +10,7 @@ Hello! I'm a passionate **[your profession, e.g., Full-Stack Developer]** with a
 
 - 🌱 Learning **FullStack Development**  
 - 💬 Ask me about **Desktop_Applications(.NET,C#)** **Web_Development(HTML,CSS,JavaScript)**
-- 📫 Reach me at **zoma21466@gmail.com**  
+- 📫 Reach me at **zoma21466@gmail.com**  <a href="zoma21466@gmail.com" style="color:red;">zoma21466@gmail.com</a>
 - 🎯 Fun Fact: **Our aspirations extend far beyond conventional limitations, with a vision that transcends even the achievement of lunar exploration(طير شلوى).**
 
 ---
