@@ -10,7 +10,7 @@ Hello! I'm a passionate **[Full-Stack Developer]** with a love for **[Desktop De
 
 - 🌱 Learning **FullStack Development**  
 - 💬 Ask me about **Desktop_Applications(.NET,C#)** **Web_Development(HTML,CSS,JavaScript)**
-- 📫 Reach me at <a href="zoma21466@gmail.com" style="color:red;">zoma21466@gmail.com</a>
+- 📫 Reach me at <a href="mailto:zoma21466@gmail.com?subject=Hello&body=Hello, How are you?" title="email" style="color:#fd7d0a;">My Email</a>
 - 🎯 Fun Fact: **Our aspirations extend far beyond conventional limitations, with a vision that transcends even the achievement of lunar exploration.**
 
 ---
@@ -60,7 +60,7 @@ Language: Html | Css
 <!-- - **[Project 3 Name](https://github.com/yourusername/project3)** - Short description  -->
 
   **🖥️ Some Desktop Applications Projects**
-- **Lawyer Assistant** <a href="https://youtu.be/_dnr4B2zDUw?si=ecKEX8VkFNnD_zne">More</a> <br>
+- **Lawyer Assistant** <a href="https://youtu.be/_dnr4B2zDUw?si=ecKEX8VkFNnD_zne" style="color:#fd7d0a;">More</a> <br>
 <q>Lawyer Assistant - Streamlining Legal Case Management.</q> <br>
 Language: C# | SQLServer
 - **Telesales** <a href="https://youtu.be/FqYBjz85dxc?si=9XwYdn2CFMCU_zeU" style="color:#fd7d0a;">More</a><br>
