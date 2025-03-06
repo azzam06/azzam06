@@ -69,8 +69,9 @@ Language: VisualBasic.NET | SQLServer
 - **Library system** <a href="https://youtu.be/6JsH4Q21tGE?si=GXb26IW8tEjKjc0p" style="color:#fd7d0a;">More</a><br>
 <q>This software helps manage libraries. It helps organize large libraries and makes sure they run smoothly.</q> <br>
 Language: C# | SQLServer
-<!-- - **[Project Name](https://github.com/yourusername/project2)** - Short description  -->
+
 ---
+
 ## 🎨 Fun Widgets  
 
 🎵 **Now Listening To:**  
