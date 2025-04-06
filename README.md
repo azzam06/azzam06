@@ -2,7 +2,7 @@
 
 **🚀 Developer | 💡 Innovator | 🎯 Problem Solver**  
 
-![Your Banner Image](Images/owl.jpeg) 
+<img src="Images/owl.jpeg" alt="owl" style="width:200px;">
 
 ## 📌 About Me
 
@@ -12,7 +12,7 @@ Hello! I'm a passionate **[Full-Stack Developer]** with a love for **[Desktop De
 - 💬 Ask me about **Desktop_Applications(.NET,C#)** **Web_Development(HTML,CSS,JavaScript)**
 - 📫 Reach me at <a href="mailto:zoma21466@gmail.com?subject=Hello&body=Hello, How are you?" title="email" style="color:#fd7d0a;">My Email</a>
 - 🎯 Fun Fact: **Our aspirations extend far beyond conventional limitations, with a vision that transcends even the achievement of lunar exploration.**
-
+-->
 ---
 <!--
 [!["Follow me on Twitter"](https://img.shields.io/twitter/follow/tarekalabd?label=Follow%20me)](https://twitter.com/tarekalabd)
